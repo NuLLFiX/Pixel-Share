@@ -13,7 +13,7 @@ database and remove actual files.
 
 Documentation
 -------------
-For more information on how to use GeSHi, please consult my [webpage](https://nullfix.com/pixel). 
+For more information on how to use Pixel Share, please consult my [webpage](https://nullfix.com/pixel). 
 
 License
 -------
