@@ -1,0 +1,5 @@
+<IfModule mod_rewrite.c>
+RewriteEngine on
+Options +FollowSymlinks
+RewriteRule ^([^/\.]+)/?$ view.php?view=$1 [L]
+</IfModule>

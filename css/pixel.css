@@ -1,0 +1,79 @@
+body { font: normal normal normal 100%/125% Helvetica, Arial, sans-serif; background: #fff; margin: 0; padding: 0; }
+a { text-decoration: none; color: #79933A; }
+a:hover { text-decoration: underline }
+a img { border: none; }
+h3 { font: normal normal normal 100%/125% Helvetica, Arial, sans-serif; margin: 0 }
+input{ margin-left: 0; }
+.clear:after { content: ''; display: block; clear: both; height: 0 }
+.logo { float: right; }
+.header { width: 600px; margin: 85px auto 10px auto }
+.border { width: 584px; padding: 8px; margin: 0 auto; background-color: #e7e7e7 }
+.border .uploader { min-height: 180px; background: #fff url(../img/image.png) no-repeat 20px 20px; border: 1px solid #cdcdcd; padding: 15px 15px 15px 225px }
+.border .content { background: #fff; border: 1px solid #cdcdcd; padding: 15px; }
+.example { background: #f6f8ff; padding: 15px; }
+.info { color: #444; font-size: x-small }
+.footer { color: #666; font-size: x-small; margin: 15px auto; text-align: center; width: 600px }
+.footer a { color: inherit }
+.loader { display: none; }
+.holder { display: table; margin: 0 auto; }
+.view { display: table-cell; vertical-align: top; padding: 4px; }
+.view div { border: 1px solid #e0e0e0; padding: 6px; font-size: small; }
+.view div img { margin: auto auto; display: block; }
+.name { font-weight: bold; word-break: break-word; }
+
+.info { display: table-cell; vertical-align: top; padding: 4px; }
+.info .iborder { border: 1px solid #e0e0e0; padding: 6px; font-size: small; width: 240px;  }
+.info .inner { background: #fbfbfb; padding: 5px; min-height: 225px; }
+.question{ font-weight: bold; }
+.share { text-align: center; padding-top: 25px; }
+.share a { margin: 0 3px; }
+.share a:hover { text-decoration: none !important; }
+
+.logo { margin-top: 15px; }
+
+.tab{ background: #e7e7e7; color: #61722e; width: 58px; float: left; text-align: center; margin-left: 3px; }
+.edit a { color: #61722e; }
+.remove a { color: #61722e; }
+
+#fb { border-top: 1px solid #e0e0e0; padding: 10px 0 0 10px; margin-top: 30px; }
+.generror { border: 1px solid #FF1E68; padding: 10px; margin: 15px auto; background: #FFF6FA; color: #750025; width: 576px; } 
+.gensuccess { border: 1px solid #00FF7D; padding: 10px; margin: 15px auto; background: #EAFFF4; color: #20B268; width: 576px; } 
+.error { border: 1px solid #FF1E68; padding: 10px; margin: 10px; min-height: 150px; background: #FFF6FA url(../img/recycle.png) no-repeat 15px 14px; color: #750025; }
+
+#hor-minimalist-b
+{
+	font-family: "Lucida Sans Unicode", "Lucida Grande", Sans-Serif;
+	font-size: 12px;
+	background: #fff;
+	margin: 0px;
+	width: 550px;
+	border-collapse: collapse;
+	text-align: left;
+}
+#hor-minimalist-b th
+{
+	font-size: 14px;
+	font-weight: normal;
+	color: #039;
+	padding: 10px 8px;
+	border-bottom: 2px solid #6678b1;
+}
+#hor-minimalist-b td
+{
+	border-bottom: 1px solid #ccc;
+	color: #669;
+	padding: 6px 8px;
+}
+#hor-minimalist-b tbody tr:hover td
+{
+	color: #009;
+}
+
+#preview{
+	position:absolute;
+	border:1px solid #ccc;
+	background:#333;
+	padding:5px;
+	display:none;
+	color:#fff;
+	}
